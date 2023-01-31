@@ -1,0 +1,1 @@
+Here is the result or writing to file : Hello this is first text file. Hello this is second text file
